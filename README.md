@@ -19,9 +19,9 @@ AInalyze is an AI-powered web application that simplifies household expense trac
 
 **Frontend:** React, TailwindCSS, Context API  
 **Backend:** Node.js, Express  
-**AI/OCR:** Tesseract.js (for OCR), Google Generative AI API (optional)  
+**AI/OCR:** Tesseract.js (for OCR)
 **Database & Storage:** Firebase  
 **Authentication:** Firebase Auth  
-**Deployment:** Render, Vercel (optional)  
+
 
 ---
